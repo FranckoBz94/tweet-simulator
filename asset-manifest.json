@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tweet-simulator/static/css/main.d460fd5a.chunk.css",
+    "main.js": "/tweet-simulator/static/js/main.f6ef1265.chunk.js",
+    "main.js.map": "/tweet-simulator/static/js/main.f6ef1265.chunk.js.map",
+    "runtime-main.js": "/tweet-simulator/static/js/runtime-main.5bf90d1c.js",
+    "runtime-main.js.map": "/tweet-simulator/static/js/runtime-main.5bf90d1c.js.map",
+    "static/js/2.30092655.chunk.js": "/tweet-simulator/static/js/2.30092655.chunk.js",
+    "static/js/2.30092655.chunk.js.map": "/tweet-simulator/static/js/2.30092655.chunk.js.map",
+    "index.html": "/tweet-simulator/index.html",
+    "precache-manifest.8e5739e3a273fb3009bbc8d8c7f6eb24.js": "/tweet-simulator/precache-manifest.8e5739e3a273fb3009bbc8d8c7f6eb24.js",
+    "service-worker.js": "/tweet-simulator/service-worker.js",
+    "static/css/main.d460fd5a.chunk.css.map": "/tweet-simulator/static/css/main.d460fd5a.chunk.css.map",
+    "static/js/2.30092655.chunk.js.LICENSE.txt": "/tweet-simulator/static/js/2.30092655.chunk.js.LICENSE.txt",
+    "static/media/original.png": "/tweet-simulator/static/media/original.400dc885.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bf90d1c.js",
+    "static/js/2.30092655.chunk.js",
+    "static/css/main.d460fd5a.chunk.css",
+    "static/js/main.f6ef1265.chunk.js"
+  ]
+}
